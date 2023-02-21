@@ -1,9 +1,4 @@
 # Lab 3 Report
-
-The members of Group 29 are:
-- Srinath Jayaraman - 5049903
-- Juan Molano - 5239540
-
 ## Usage
 
 The application is compiled and run inside the transformer service container via ```sbt```. The argument passed alongside the ```run``` command is a number that specifies the time window in **seconds**. There is fixed a default time window of 10 seconds which is used **only** when the user does not provide a window of their own choosing. 
